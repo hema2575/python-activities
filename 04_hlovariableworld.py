@@ -11,3 +11,5 @@ print("Name is:" + name + " Country is:" + country + " Age is: " + str(age) + " 
 print(f"Name is: {name} Country is: {country} Age is: {age} and hourly_wage is {hourly_wage}")
 
 print(f"{name} is funny")
+
+print(f"{daily_wage}  {satisfied}")
